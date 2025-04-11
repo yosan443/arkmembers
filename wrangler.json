@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "arkworker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5c02ad72-2fef-4e62-9f58-0eb77640b2e2",
+      "database_name": "arkdata"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
